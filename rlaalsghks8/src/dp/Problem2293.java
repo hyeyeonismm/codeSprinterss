@@ -12,17 +12,20 @@ public class Problem2293 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
+        int[] coin = new int[n+1];
         int[] dp = new int[k+1];
-        for (int t = 0; t < n; t++) {
-            int coin = Integer.parseInt(br.readLine());
-            for (int i = 1; i <= k; i++) {
-                if (i - coin > 0) {
-                    dp[i] = dp[i] + dp[i-coin];
-                } else if (i - coin == 0) {
-                    dp[i]++;
-                }
+
+        for(int i = 1; i<=n; i++)
+            coin[i] = Integer.parseInt(br.readLine());
+
+        for(int i = 1; i<=n; i++){
+            for(int j = coin[0]; j<=k; j++){
+                if(j<coin[i])
+                    continue;
+                dp[j] += dp[j-coin[i]];
             }
         }
-        System.out.print(dp[k]);
+
+        System.out.println(dp[k]);
     }
 }
