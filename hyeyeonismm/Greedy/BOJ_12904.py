@@ -13,17 +13,3 @@ if s ==t:
     print(1)
 else:
     print(0)
-
-# ABBA -> ABB -> BA -> A
-# B
-# ABBA
-#######
-# BA
-# ABB
-# ABBA
-
-# AB
-# ABB
-#######
-# ABA
-# ABAB
