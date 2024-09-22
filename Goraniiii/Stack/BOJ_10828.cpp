@@ -19,6 +19,7 @@ public:
     delete [] data;
   }
 
+  // 백준 memcpy 관련 오류로 주석처리
   // void resize(int new_capacity) {
   //   T* new_stack = new T[new_capacity];
   //   memcpy(new_stack, data, sizeof(T) * (length + 1));
