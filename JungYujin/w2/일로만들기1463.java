@@ -1,4 +1,4 @@
-package JungYujin.Algorithm.w2;
+package w2;
 
 import java.util.Scanner;
 
