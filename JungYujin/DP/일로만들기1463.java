@@ -1,4 +1,4 @@
-package w2;
+package DP;
 
 import java.util.Scanner;
 
