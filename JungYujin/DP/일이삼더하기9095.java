@@ -1,4 +1,4 @@
-package w2;
+package DP;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

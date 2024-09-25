@@ -1,4 +1,4 @@
-package w1;
+package Hash;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

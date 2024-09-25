@@ -1,4 +1,4 @@
-package w2;
+package Implementation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package w2;
+package Search;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
