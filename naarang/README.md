@@ -1,3 +1,13 @@
+#### Week 03 - 수학/트리 (24.09.23)
+
+| 유형 | 제목                                                                      | 풀이 |
+| ---- | ------------------------------------------------------------------------- | :--: |
+| Math | [백준 5347 : LCM](https://www.acmicpc.net/problem/5347)                   |
+| Math | [백준 4134 : 다음 소수](https://www.acmicpc.net/problem/4134)             |
+| Math | [백준 21920 : 서로소 평균](https://www.acmicpc.net/problem/21920)         |
+| Math | [백준 9613 : GCD 합](https://www.acmicpc.net/problem/9613)                |
+| Tree | [백준 3584 : 가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) |
+
 #### Week 02 - 트리 (24.09.16)
 
 | 유형 | 제목                                                                 | 풀이 |
