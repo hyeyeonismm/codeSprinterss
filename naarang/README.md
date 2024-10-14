@@ -1,3 +1,11 @@
+#### Week 05 - Greedy (24.10.07)
+
+| 유형   | 제목                                                              | 풀이 |
+| ------ | ----------------------------------------------------------------- | :--: |
+| Greedy | [백준 1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)   |
+| Greedy | [백준 1092 : 배](https://www.acmicpc.net/problem/1092)            |
+| Greedy | [백준 11000 : 강의실 배정](https://www.acmicpc.net/problem/11000) |
+
 #### Week 04 - 수학 (24.09.30)
 
 | 유형 | 제목                                                                   | 풀이 |
