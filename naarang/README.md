@@ -1,3 +1,11 @@
+#### Week 06 - Greedy (24.10.07)
+
+| 유형   | 제목                                                                   | 풀이 |
+| ------ | ---------------------------------------------------------------------- | :--: |
+| Greedy | [백준 21758 : 꿀 따기](https://www.acmicpc.net/problem/21758)          |
+| Greedy | [백준 19598 : 최소 회의실 개수](https://www.acmicpc.net/problem/19598) |
+| Greedy | [백준 2212 : 센서](https://www.acmicpc.net/problem/2212)               |
+
 #### Week 05 - Greedy (24.10.07)
 
 | 유형   | 제목                                                              | 풀이 |
