@@ -1,3 +1,11 @@
+#### Week 08 - Greedy/DP (24.10.28)
+
+| 유형                | 제목                                                                   | 풀이 |
+| ------------------- | ---------------------------------------------------------------------- | :--: |
+| Greedy              | [백준 8980 : 택배](https://www.acmicpc.net/problem/8980)               |
+| Dynamic Programming | [백준 21317 : 징검다리 건너기](https://www.acmicpc.net/problem/21317)  |
+| Dynamic Programming | [백준 11660 : 구간 합 구하기 5](https://www.acmicpc.net/problem/11660) |
+
 #### Week 07 - Greedy (24.10.21)
 
 | 유형   | 제목                                                              | 풀이 |
