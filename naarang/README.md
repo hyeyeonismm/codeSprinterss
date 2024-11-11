@@ -1,3 +1,11 @@
+#### Week 09 - DP (24.11.04)
+
+| 유형                | 제목                                                      | 풀이 |
+| ------------------- | --------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 2294 : 동전2](https://www.acmicpc.net/problem/2294) |
+| Dynamic Programming | [백준 1106 : 호텔](https://www.acmicpc.net/problem/1106)  |
+| Dynamic Programming | [백준 2293 : 동전1](https://www.acmicpc.net/problem/2293) |
+
 #### Week 08 - Greedy/DP (24.10.28)
 
 | 유형                | 제목                                                                   | 풀이 |
