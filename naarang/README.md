@@ -1,3 +1,11 @@
+#### Week 10 - DP (24.11.11)
+
+| 유형                | 제목                                                                 | 풀이 |
+| ------------------- | -------------------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865)    |
+| Dynamic Programming | [백준 9251 : LCS](https://www.acmicpc.net/problem/9251)              |
+| Dynamic Programming | [백준 1915 : 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) |
+
 #### Week 09 - DP (24.11.04)
 
 | 유형                | 제목                                                      | 풀이 |
