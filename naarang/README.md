@@ -1,3 +1,11 @@
+#### Week 11 - DP (24.11.18)
+
+| 유형                | 제목                                                            | 풀이 |
+| ------------------- | --------------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 5557 : 1학년](https://www.acmicpc.net/problem/5557)       |
+| Dynamic Programming | [백준 9084 : 동전](https://www.acmicpc.net/problem/9084)        |
+| Dynamic Programming | [백준 10942 : 팰린드롬?](https://www.acmicpc.net/problem/10942) |
+
 #### Week 10 - DP (24.11.11)
 
 | 유형                | 제목                                                                 | 풀이 |
