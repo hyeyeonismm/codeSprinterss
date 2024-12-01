@@ -1,3 +1,11 @@
+#### Week 12 - DP (24.11.25)
+
+| 유형                | 제목                                                              | 풀이 |
+| ------------------- | ----------------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 2056 : 작업](https://www.acmicpc.net/problem/2056)          |
+| Dynamic Programming | [백준 2624 : 동전 바꿔주기](https://www.acmicpc.net/problem/2624) |
+| Dynamic Programming | [백준 2631 : 줄세우기](https://www.acmicpc.net/problem/2631)      |
+
 #### Week 11 - DP (24.11.18)
 
 | 유형                | 제목                                                            | 풀이 |
