@@ -32,9 +32,8 @@ int bfs(pair<int, int> coin1, pair<int, int> coin2) {
         auto [x1, y1, x2, y2, moves] = q.front();
         q.pop();
 
-        if (moves > 10) {
-            return -1;
-        }
+        // 이동 횟수 초과
+        if (moves >= 10) return -1;
 
         for (int i = 0; i < 4; i++) {
             int nx1 = x1 + dx[i];
@@ -49,10 +48,10 @@ int bfs(pair<int, int> coin1, pair<int, int> coin2) {
             if (out1 && !out2) return moves + 1;
             if (!out1 && out2) return moves + 1;
 
-            // 두 동전이 모두 떨어진 경우(실패))
+            // 두 동전이 모두 떨어진 경우(실패)
             if (out1 && out2) continue;
 
-            // 벽
+            // 벽 처리
             if (!out1 && board[nx1][ny1] == '#') {
                 nx1 = x1;
                 ny1 = y1;
@@ -62,12 +61,7 @@ int bfs(pair<int, int> coin1, pair<int, int> coin2) {
                 ny2 = y2;
             }
 
-            // 두 동전이 겹쳐진 경우(실패)
-            if(nx1 == nx2 && ny1 == ny2) {
-              continue;
-            }
-
-            // 이미 방문
+            // 이미 방문한 상태
             if (!visited[nx1][ny1][nx2][ny2]) {
                 visited[nx1][ny1][nx2][ny2] = true;
                 q.push({nx1, ny1, nx2, ny2, moves + 1});
@@ -102,4 +96,3 @@ int main() {
 
     return 0;
 }
-
