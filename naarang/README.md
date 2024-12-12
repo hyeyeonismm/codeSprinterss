@@ -1,3 +1,13 @@
+#### Week 14 - Two Pointer/DP (24.12.09)
+
+| 유형                | 제목                                                                 | 풀이 |
+| ------------------- | -------------------------------------------------------------------- | :--: |
+| Two Pointer         | [백준 3151 : 합이 0](https://www.acmicpc.net/problem/3151)           |
+| Two Pointer         | [백준 15961 : 회전 초밥](https://www.acmicpc.net/problem/15961)      |
+| Two Pointer         | [백준 7453 : 합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |
+| Dynamic Programming | [백준 2631 : 줄세우기](https://www.acmicpc.net/problem/2631)         |
+| Dynamic Programming | [백준 1520 : 내리막 길](https://www.acmicpc.net/problem/1520)        |
+
 #### Week 13 - Two Pointer (24.12.02)
 
 | 유형        | 제목                                                              | 풀이 |
@@ -12,7 +22,6 @@
 | ------------------- | ----------------------------------------------------------------- | :--: |
 | Dynamic Programming | [백준 2056 : 작업](https://www.acmicpc.net/problem/2056)          |
 | Dynamic Programming | [백준 2624 : 동전 바꿔주기](https://www.acmicpc.net/problem/2624) |
-| Dynamic Programming | [백준 2631 : 줄세우기](https://www.acmicpc.net/problem/2631)      |
 
 #### Week 11 - DP (24.11.18)
 
