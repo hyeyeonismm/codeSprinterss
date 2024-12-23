@@ -1,9 +1,12 @@
-#### Week 15 - Two Pointer/DP (24.12.16)
+#### Week 15 - DP/Implementation (24.12.16)
 
-| 유형                | 제목                                                          | 풀이 |
-| ------------------- | ------------------------------------------------------------- | :--: |
-| Dynamic Programming | [백준 2631 : 줄세우기](https://www.acmicpc.net/problem/2631)  |
-| Dynamic Programming | [백준 1520 : 내리막 길](https://www.acmicpc.net/problem/1520) |
+| 유형                | 제목                                                                 | 풀이 |
+| ------------------- | -------------------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 2631 : 줄세우기](https://www.acmicpc.net/problem/2631)         |
+| Dynamic Programming | [백준 1520 : 내리막 길](https://www.acmicpc.net/problem/1520)        |
+| Implementation      | [백준 1244 : 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+| Implementation      | [백준 2578 : 빙고](https://www.acmicpc.net/problem/2578)             |
+| Implementation      | [백준 10994 : 별 찍기 - 19](https://www.acmicpc.net/problem/10994)   |
 
 #### Week 14 - Two Pointer (24.12.09)
 
