@@ -1,11 +1,13 @@
-#### Week 16 - Implementation (24.12.23)
+#### Week 16 - Implementation/Graph Traversal (24.12.30)
 
-| 유형           | 제목                                                               | 풀이 |
-| -------------- | ------------------------------------------------------------------ | :--: |
-| Implementation | [백준 10994 : 별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
-| Implementation | [백준 1913 : 달팽이](https://www.acmicpc.net/problem/1913)         |
-| Implementation | [백준 2615 : 오목](https://www.acmicpc.net/problem/2615)           |
-| Implementation | [백준 14719 : 빗물](https://www.acmicpc.net/problem/14719)         |
+| 유형            | 제목                                                               | 풀이 |
+| --------------- | ------------------------------------------------------------------ | :--: |
+| Implementation  | [백준 10994 : 별 찍기 - 19](https://www.acmicpc.net/problem/10994) |
+| Implementation  | [백준 1913 : 달팽이](https://www.acmicpc.net/problem/1913)         |
+| Implementation  | [백준 2615 : 오목](https://www.acmicpc.net/problem/2615)           |
+| Implementation  | [백준 14719 : 빗물](https://www.acmicpc.net/problem/14719)         |
+| Graph Traversal | [백준 1260 : DFS와 BFS](https://www.acmicpc.net/problem/1260)      |
+| Graph Traversal | [백준 1325 : 효율적인 해킹](https://www.acmicpc.net/problem/1325)  |
 
 #### Week 15 - DP/Implementation (24.12.16)
 
