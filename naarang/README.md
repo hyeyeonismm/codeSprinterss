@@ -1,3 +1,13 @@
+#### Week 17 - Graph Traversal (24.01.06)
+
+| 유형            | 제목                                                                | 풀이 |
+| --------------- | ------------------------------------------------------------------- | :--: |
+| Graph Traversal | [백준 1325 : 효율적인 해킹](https://www.acmicpc.net/problem/1325)   |
+| Graph Traversal | [백준 14940 : 쉬운 최단거리](https://www.acmicpc.net/problem/14940) |
+| Graph Traversal | [백준 16918 : 봄버맨](https://www.acmicpc.net/problem/16918)        |
+| Graph Traversal | [백준 13549 : 숨바꼭질 3](https://www.acmicpc.net/problem/13549)    |
+| Graph Traversal | [백준 13023 : ABCDE](https://www.acmicpc.net/problem/13023)         |
+
 #### Week 16 - Implementation/Graph Traversal (24.12.30)
 
 | 유형            | 제목                                                               | 풀이 |
@@ -7,7 +17,6 @@
 | Implementation  | [백준 2615 : 오목](https://www.acmicpc.net/problem/2615)           |
 | Implementation  | [백준 14719 : 빗물](https://www.acmicpc.net/problem/14719)         |
 | Graph Traversal | [백준 1260 : DFS와 BFS](https://www.acmicpc.net/problem/1260)      |
-| Graph Traversal | [백준 1325 : 효율적인 해킹](https://www.acmicpc.net/problem/1325)  |
 
 #### Week 15 - DP/Implementation (24.12.16)
 
