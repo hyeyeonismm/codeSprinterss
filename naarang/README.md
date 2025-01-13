@@ -1,3 +1,15 @@
+#### Week 18 - Graph Traversal/Brute Force (24.01.13)
+
+| 유형            | 제목                                                                          | 풀이 |
+| --------------- | ----------------------------------------------------------------------------- | :--: |
+| Graph Traversal | [백준 13549 : 숨바꼭질 3](https://www.acmicpc.net/problem/13549)              |
+| Graph Traversal | [백준 13023 : ABCDE](https://www.acmicpc.net/problem/13023)                   |
+| Graph Traversal | [백준 7576 : 토마토](https://www.acmicpc.net/problem/7576)                    |
+| Graph Traversal | [백준 7569 : 토마토](https://www.acmicpc.net/problem/7569)                    |
+| Graph Traversal | [백준 2573 : 빙산](https://www.acmicpc.net/problem/2573)                      |
+| Brute Force     | [백준 14501 : 퇴사](https://www.acmicpc.net/problem/14501)                    |
+| Brute Force     | [백준 2961 : 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |
+
 #### Week 17 - Graph Traversal (24.01.06)
 
 | 유형            | 제목                                                                | 풀이 |
