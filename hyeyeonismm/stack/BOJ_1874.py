@@ -14,8 +14,9 @@ for i in ans:
         sign.append('+')
         current += 1
     if stack[-1] == i: 
+        print(stack)
         stack.pop() 
-        sign.append('-')
+        sign.append('-')    
     else:
         print("NO")
         break
