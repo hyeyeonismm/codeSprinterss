@@ -1,10 +1,20 @@
+#### Week 21 - Backtracking/Divide and conquer/Prefix Sum (24.02.03)
+
+| 유형               | 제목                                                                   | 풀이 |
+| ------------------ | ---------------------------------------------------------------------- | :--: |
+| Backtracking       | [백준 2580 : 스도쿠](https://www.acmicpc.net/problem/2580)             |
+| Divide and conquer | [백준 1780 : 종이의 개수](https://www.acmicpc.net/problem/1780)        |
+| Divide and conquer | [백준 2448 : 별 찍기 - 11](https://www.acmicpc.net/problem/2448)       |
+| Prefix Sum         | [백준 11659 : 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
+| Prefix Sum         | [백준 11441 : 합 구하기](https://www.acmicpc.net/problem/11441)        |
+| Prefix Sum         | [백준 10986 : 나머지 합](https://www.acmicpc.net/problem/10986)        |
+
 #### Week 20 - Backtracking (24.01.27)
 
 | 유형         | 제목                                                            | 풀이 |
 | ------------ | --------------------------------------------------------------- | :--: |
 | Backtracking | [백준 15651 : N과 M (3)](https://www.acmicpc.net/problem/15651) |
 | Backtracking | [백준 15663 : N과 M (9)](https://www.acmicpc.net/problem/15663) |
-| Backtracking | [백준 2580 : 스도쿠](https://www.acmicpc.net/problem/2580)      |
 
 #### Week 19 - Brute Force/Binary Search (24.01.20)
 
