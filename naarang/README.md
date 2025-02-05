@@ -4,7 +4,7 @@
 | ------------------ | ---------------------------------------------------------------------- | :--: |
 | Backtracking       | [백준 2580 : 스도쿠](https://www.acmicpc.net/problem/2580)             |
 | Divide and conquer | [백준 1780 : 종이의 개수](https://www.acmicpc.net/problem/1780)        |
-| Divide and conquer | [백준 2448 : 별 찍기 - 11](https://www.acmicpc.net/problem/2448)       |
+| Divide and conquer | [백준 1030 : 프렉탈 평면](https://www.acmicpc.net/problem/1030)        |
 | Prefix Sum         | [백준 11659 : 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
 | Prefix Sum         | [백준 11441 : 합 구하기](https://www.acmicpc.net/problem/11441)        |
 | Prefix Sum         | [백준 10986 : 나머지 합](https://www.acmicpc.net/problem/10986)        |
