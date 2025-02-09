@@ -1,3 +1,11 @@
+#### Week 20 - Backtracking (24.01.27)
+
+| 유형         | 제목                                                            | 풀이 |
+| ------------ | --------------------------------------------------------------- | :--: |
+| Backtracking | [백준 15651 : N과 M (3)](https://www.acmicpc.net/problem/15651) |
+| Backtracking | [백준 15663 : N과 M (9)](https://www.acmicpc.net/problem/15663) |
+| Backtracking | [백준 2580 : 스도쿠](https://www.acmicpc.net/problem/2580)      |
+
 #### Week 19 - Brute Force/Binary Search (24.01.20)
 
 | 유형          | 제목                                                                          | 풀이 |
