@@ -1,13 +1,23 @@
+#### Week 22 - Prefix Sum / Hash (24.02.10)
+
+| 유형       | 제목                                                                                              | 풀이 |
+| ---------- | ------------------------------------------------------------------------------------------------- | :--: |
+| Prefix Sum | [백준 11659 : 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)                            |
+| Prefix Sum | [백준 11441 : 합 구하기](https://www.acmicpc.net/problem/11441)                                   |
+| Prefix Sum | [백준 10986 : 나머지 합](https://www.acmicpc.net/problem/10986)                                   |
+|            | [프로그래머스 : 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
+|            | [프로그래머스 : n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) |
+|            | [프로그래머스 : 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  |
+
 #### Week 21 - Backtracking/Divide and conquer/Prefix Sum (24.02.03)
 
-| 유형               | 제목                                                                   | 풀이 |
-| ------------------ | ---------------------------------------------------------------------- | :--: |
-| Backtracking       | [백준 2580 : 스도쿠](https://www.acmicpc.net/problem/2580)             |
-| Divide and conquer | [백준 1780 : 종이의 개수](https://www.acmicpc.net/problem/1780)        |
-| Divide and conquer | [백준 1030 : 프렉탈 평면](https://www.acmicpc.net/problem/1030)        |
-| Prefix Sum         | [백준 11659 : 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |
-| Prefix Sum         | [백준 11441 : 합 구하기](https://www.acmicpc.net/problem/11441)        |
-| Prefix Sum         | [백준 10986 : 나머지 합](https://www.acmicpc.net/problem/10986)        |
+| 유형               | 제목                                                                                                   | 풀이 |
+| ------------------ | ------------------------------------------------------------------------------------------------------ | :--: |
+| Backtracking       | [백준 2580 : 스도쿠](https://www.acmicpc.net/problem/2580)                                             |
+| Divide and conquer | [백준 1780 : 종이의 개수](https://www.acmicpc.net/problem/1780)                                        |
+| Divide and conquer | [백준 1030 : 프렉탈 평면](https://www.acmicpc.net/problem/1030)                                        |
+| Implementation     | [프로그래머스 : 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) |
+| Graph Traversal    | [프로그래머스 : 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  |
 
 #### Week 20 - Backtracking (24.01.27)
 
