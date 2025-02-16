@@ -1,6 +1,6 @@
 /*
 BOJ 1802
-???
+divide and conquer
 종이 접기
 S1
 */
