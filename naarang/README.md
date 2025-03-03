@@ -1,15 +1,20 @@
-#### Week 22 - Prefix Sum / Hash (24.02.10)
+#### Week 23 - Shortest Path (25.02.24)
+
+| 유형          | 제목                                                            | 풀이 |
+| ------------- | --------------------------------------------------------------- | :--: |
+| Shortest Path | [백준 11403 : 경로 찾기](https://www.acmicpc.net/problem/11403) |
+| Shortest Path | [백준 11657 : 타임머신](https://www.acmicpc.net/problem/11657)  |
+| Shortest Path | [백준 1753 : 최단경로](https://www.acmicpc.net/problem/1753)    |
+
+#### Week 22 - Prefix Sum (25.02.10)
 
 | 유형       | 제목                                                                                              | 풀이 |
 | ---------- | ------------------------------------------------------------------------------------------------- | :--: |
 | Prefix Sum | [백준 11659 : 구간 합 구하기 4](https://www.acmicpc.net/problem/11659)                            |
-| Prefix Sum | [백준 11441 : 합 구하기](https://www.acmicpc.net/problem/11441)                                   |
 | Prefix Sum | [백준 10986 : 나머지 합](https://www.acmicpc.net/problem/10986)                                   |
 |            | [프로그래머스 : 산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
-|            | [프로그래머스 : n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) |
-|            | [프로그래머스 : 주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  |
 
-#### Week 21 - Backtracking/Divide and conquer/Prefix Sum (24.02.03)
+#### Week 21 - Backtracking/Divide and conquer/Prefix Sum (25.02.03)
 
 | 유형               | 제목                                                                                                   | 풀이 |
 | ------------------ | ------------------------------------------------------------------------------------------------------ | :--: |
@@ -19,14 +24,14 @@
 | Implementation     | [프로그래머스 : 가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) |
 | Graph Traversal    | [프로그래머스 : 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)  |
 
-#### Week 20 - Backtracking (24.01.27)
+#### Week 20 - Backtracking (25.01.27)
 
 | 유형         | 제목                                                            | 풀이 |
 | ------------ | --------------------------------------------------------------- | :--: |
 | Backtracking | [백준 15651 : N과 M (3)](https://www.acmicpc.net/problem/15651) |
 | Backtracking | [백준 15663 : N과 M (9)](https://www.acmicpc.net/problem/15663) |
 
-#### Week 19 - Brute Force/Binary Search (24.01.20)
+#### Week 19 - Brute Force/Binary Search (25.01.20)
 
 | 유형          | 제목                                                                          | 풀이 |
 | ------------- | ----------------------------------------------------------------------------- | :--: |
@@ -38,7 +43,7 @@
 | Binary Search | [백준 2805 : 나무 자르기](https://www.acmicpc.net/problem/2805)               |
 | Binary Search | [백준 2512 : 예산](https://www.acmicpc.net/problem/2512)                      |
 
-#### Week 18 - Graph Traversal/Brute Force (24.01.13)
+#### Week 18 - Graph Traversal/Brute Force (25.01.13)
 
 | 유형            | 제목                                                             | 풀이 |
 | --------------- | ---------------------------------------------------------------- | :--: |
@@ -49,7 +54,7 @@
 | Graph Traversal | [백준 2573 : 빙산](https://www.acmicpc.net/problem/2573)         |
 | Brute Force     | [백준 14501 : 퇴사](https://www.acmicpc.net/problem/14501)       |
 
-#### Week 17 - Graph Traversal (24.01.06)
+#### Week 17 - Graph Traversal (25.01.06)
 
 | 유형            | 제목                                                                | 풀이 |
 | --------------- | ------------------------------------------------------------------- | :--: |
