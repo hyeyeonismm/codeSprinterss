@@ -17,7 +17,7 @@ bool visited[100001];
 int bfs(int start, int goal) {
     queue<pair<int, int>> q;
     q.push({start, 0});
-    visited[start] = true; // 시작점 방문 처리
+    visited[start] = true;
 
     while (!q.empty()) {
         int current, time;
