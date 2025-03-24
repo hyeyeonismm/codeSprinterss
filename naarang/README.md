@@ -1,3 +1,12 @@
+#### Week 25 - DP/Graph Traversal (25.03.17)
+
+| 유형 | 제목                                                                                         | 풀이 |
+| ---- | -------------------------------------------------------------------------------------------- | :--: |
+|      | [프로그래머스 : N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) |
+|      | [프로그래머스 : 정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) |
+|      | [프로그래머스 : 등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)     |
+|      | [프로그래머스 : 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)   |
+
 #### Week 24 - 2018 카카오 신입 공채 1차 코테 (25.03.03)
 
 | 유형 | 제목                                                                                                    | 풀이 |
@@ -5,8 +14,6 @@
 |      | [프로그래머스 : [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            |
 |      | [프로그래머스 : [1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) |
 |      | [프로그래머스 : [1차] 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)        |
-|      | [프로그래머스 : [1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)     |
-|      | [프로그래머스 : [1차] 추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)     |
 
 #### Week 23 - Shortest Path (25.02.24)
 
