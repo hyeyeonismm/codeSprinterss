@@ -1,3 +1,11 @@
+#### Week 26 - (25.03.24)
+
+| 유형 | 제목                                                                                              | 풀이 |
+| ---- | ------------------------------------------------------------------------------------------------- | :--: |
+|      | [프로그래머스 : 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)     |
+|      | [프로그래머스 : 보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)       |
+|      | [프로그래머스 : 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) |
+
 #### Week 25 - DP/Graph Traversal (25.03.17)
 
 | 유형 | 제목                                                                                         | 풀이 |
