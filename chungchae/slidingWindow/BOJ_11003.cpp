@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
 #include <sstream>
@@ -28,13 +28,13 @@ int main() {
     for (int i = 0; i < N; i++) {
         int now;
         cin >> now;
-        //Ãß°¡ÇÏ´Â ³ëµåÀÇ value°¡ ´õ ÀÛÀ¸¸é, ¾ÕÀÇ ³ëµå¸¦ Á¦°Å
+        //ì¶”ê°€í•˜ëŠ” ë…¸ë“œì˜ valueê°€ ë” ì‘ìœ¼ë©´, ì•ì˜ ë…¸ë“œë¥¼ ì œê±°
         while (arr.size() && arr.back().second > now) {
             arr.pop_back();
         }
-        //ÇöÀç ³ëµå Ãß°¡
+        //í˜„ì¬ ë…¸ë“œ ì¶”ê°€
         arr.push_back(Node(i, now));
-        //ÀÎµ¦½º¸¦ ÃÊ°úÇÏ¸é front³ëµå¸¦ Á¦°Å
+        //ì¸ë±ìŠ¤ë¥¼ ì´ˆê³¼í•˜ë©´ frontë…¸ë“œë¥¼ ì œê±°
         if (arr.front().first <= i - L) {
             arr.pop_front();
         }
