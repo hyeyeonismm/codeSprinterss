@@ -1,3 +1,14 @@
+#### Week 27 - Python 연습하기 (25.04.07)
+
+| 유형           | 제목                                                                                                 | 풀이 |
+| -------------- | ---------------------------------------------------------------------------------------------------- | :--: |
+| Greedy         | [프로그래머스 : 무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |
+| Implementation | [백준 3190 : 뱀](https://www.acmicpc.net/problem/3190)                                               |
+| GraphTraversal | [백준 14502 : 연구소](https://www.acmicpc.net/problem/14502)                                         |
+| GraphTraversal | [백준 18405 : 경쟁적 전염](https://www.acmicpc.net/problem/18405)                                    |
+| GraphTraversal | [프로그래머스 : 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)          |
+| GraphTraversal | [백준 16234 : 인구 이동](https://www.acmicpc.net/problem/16234)                                      |
+
 #### Week 26 - (25.03.24)
 
 | 유형 | 제목                                                                                              | 풀이 |
