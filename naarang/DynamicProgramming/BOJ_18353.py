@@ -10,12 +10,8 @@ def binary_search(target):
     while start < end:
         mid = (start + end) // 2
 
-        if lis[mid] == target:
-            return mid
-        elif lis[mid - 1] < target < lis[mid]:
-            return mid
-        elif lis[mid] > target:
-            end = mid - 1
+        if target <= lis[mid]:
+            end = mid
         else:
             start = mid + 1
 
