@@ -1,3 +1,11 @@
+#### Week 29 - Python 연습하기 (25.04.21)
+
+| 유형           | 제목                                                                                              | 풀이 |
+| -------------- | ------------------------------------------------------------------------------------------------- | :--: |
+| BinarySearch   | [프로그래머스 : 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)        |
+| GraphTraversal | [프로그래머스 : 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |
+| GraphTraversal | [프로그래머스 : 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)       |
+
 #### Week 28 - Python 연습하기 (25.04.14)
 
 | 유형               | 제목                                                                                     | 풀이 |
