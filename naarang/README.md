@@ -1,3 +1,12 @@
+#### Week 28 - Python 연습하기 (25.04.14)
+
+| 유형               | 제목                                                                                     | 풀이 |
+| ------------------ | ---------------------------------------------------------------------------------------- | :--: |
+| BackTracking       | [프로그래머스 : 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) |
+| MST                | [백준 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)                     |
+| DynamicProgramming | [백준 18353 : 병사 배치하기](https://www.acmicpc.net/problem/18353)                      |
+| BackTracking       | [백준 1174 : 줄어드는 수](https://www.acmicpc.net/problem/1174)                          |
+
 #### Week 27 - Python 연습하기 (25.04.07)
 
 | 유형           | 제목                                                                                                 | 풀이 |
