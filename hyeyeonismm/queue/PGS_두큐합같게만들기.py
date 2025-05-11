@@ -5,7 +5,6 @@ def solution(queue1, queue2):
     answer = 0
     dq1 = deque(queue1)
     dq2 = deque(queue2)
-    sub_list = (queue1 + queue2 + queue1)[::-1]
     sum_que1 = sum(dq1)
     sum_que2 = sum(dq2)
 
