@@ -1,22 +1,19 @@
-def solution(v):
-    visited[v] = 1
-    next = arr[v]
-    if visited[next] == 0:
-        solution(next)
-    return
+import sys
 
+t = int(sys.stdin.readline())
 
-t = int(input())
-arr = [0]
-for _ in range(t):
-    cnt = 0
-    n = int(input())
-    visited = [0] * (n + 1)
-    arr = list(map(int, input().split()))
-    # arr = [0] + list(map(int, input().split()))
-    arr.insert(0, 0)
-    for i in range(1, n + 1):
-        if visited[i] == 0:
-            solution(i)
-            cnt += 1
+def dfs(li, i, visited):
+    visited[i] = True 
+    if visited[li[i]] == False: # 5
+        dfs(li,li[i], visited)
+
+for i in range(t):
+    cnt=0
+    n = int(sys.stdin.readline())
+    li = [0] + list(map(int, sys.stdin.readline().split()))
+    visited = [False] * (n+1)
+    for i in range(1, n+1):
+        if visited[i]==False:
+            dfs(li, i, visited)
+            cnt+=1
     print(cnt)
